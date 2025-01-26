@@ -1,0 +1,12 @@
+name = "ParseTop"
+uuid = "0bb31940-4d6c-4966-a029-5779d1e4d030"
+authors = ["Nicholas Stone <nicholasestone@proton.me>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+
+[compat]
+DataFrames = "1.7.0"
+Dates = "1.11.0"
